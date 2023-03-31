@@ -3,7 +3,7 @@ name: Gradle Package
 
 on:
   push:
-  workflow_trigger:
+  workflow_dispatch:
 
 jobs:
   build:
